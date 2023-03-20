@@ -1,0 +1,8 @@
+@import url(../section-title/_techniques/section-title_techniques_line-height.css);
+
+.techniques {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+}
